@@ -1,0 +1,17 @@
+.cst-date {
+    font-size: 15px;
+    color: #0068c3;
+    font-family: Arial;
+  }
+  
+  .cst-title {
+    font-size: 15px;
+    color: #4d4b45;
+    font-family: Microsoft JhengHei;
+  }
+  
+  #cst-list div {
+    border-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: #dbdbdb;
+  }
